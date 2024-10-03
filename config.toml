@@ -1,0 +1,8 @@
+[theme]
+base = "light"  # Set the default theme to light
+
+[browser]
+gatherUsageStats = false
+
+[layout]
+wide = true  # Set the layout to wide mode
